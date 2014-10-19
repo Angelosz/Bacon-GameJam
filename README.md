@@ -14,6 +14,8 @@ You've now became a (cute slayer) virus that is willing to destroy every single 
 that you're able to steal their users!
 
 Destroy, Steal, Conquer GooglePlay!
-=========================================================================================================
 
-Controls: WASD to move, IJKL to shoot
+
+Controls: 
+=========
+WASD to move, IJKL to shoot
