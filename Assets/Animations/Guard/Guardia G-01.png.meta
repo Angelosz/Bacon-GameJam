@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: ea701542888d4094f8b42e5d1b2827af
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Guardia G-01
+    21300002: Guardia G-01_0
+    21300004: Guardia G-01_1
+    21300006: Guardia G-01_2
+    21300008: Guardia G-01_3
+    21300010: Guardia G-01_4
+    21300012: Guardia G-01_5
+    21300014: Guardia G-01_6
+    21300016: Guardia G-01_7
+    21300018: Guardia G-01_8
+    21300020: Guardia G-01_9
+    21300022: Guardia G-01_10
+    21300024: Guardia G-01_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Guardia G-01_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 750
+        width: 152
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 745
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 744
+        width: 139
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 511
+        width: 92
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 515
+        width: 91
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 523
+        width: 91
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 303
+        width: 152
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 298
+        width: 142
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 299
+        width: 138
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 91
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 60
+        width: 91
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guardia G-01_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 64
+        width: 92
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
